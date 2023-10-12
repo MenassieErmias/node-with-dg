@@ -1,0 +1,19 @@
+{
+  "name": "node-again",
+  "version": "1.0.0",
+  "description": "node tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MenassieErmias/node-with-dg.git"
+  },
+  "author": "Menassie Ermias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MenassieErmias/node-with-dg/issues"
+  },
+  "homepage": "https://github.com/MenassieErmias/node-with-dg#readme"
+}
