@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MenassieErmias/node-with-dg/issues"
   },
-  "homepage": "https://github.com/MenassieErmias/node-with-dg#readme"
+  "homepage": "https://github.com/MenassieErmias/node-with-dg#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
